@@ -8,7 +8,7 @@ moss-controller-pcb是[OpenMOSS](https://github.com/open-moss)的下位机PCB工
 
 OpenMOSS交流群：238111072
 
-| [了解OpenMOSS](https://github.com/open-moss) | [开发计划](#开发计划) |
+| [了解OpenMOSS](https://github.com/open-moss)
 
 ## 功能概述
 
